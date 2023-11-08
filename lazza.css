@@ -1,0 +1,85 @@
+@font-face {
+    font-family: gen;
+    src: url(memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-muw.ttf);
+}
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.body{
+    overflow-x: hidden;
+}
+.navbar{
+    width: 100%;
+    background-color: black;
+}
+.topright{
+    width: 1.5rem;
+}
+.banner{
+    width: 100%;
+}
+.heading{
+    font-family: gen;
+    font-size: 2em;
+    /* margin-bottom: 50px; */
+}
+.our-products{
+    padding: 5% 0px;
+}
+.inner-product img{
+    width: 100%;
+}
+.inner-product h3{
+    font-family: gen;
+}
+.inner-product{
+    padding-top: 3.25em;
+}
+footer{
+    background-color: rgb(0,0,0);
+}
+.footer-inner img{
+    width: 150px;
+    padding-top: 20px;
+}
+.footer-inner h4 {
+    color: #be9509;
+    font-family: gen;
+    font-size: 18px;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    padding-top: 20px;
+}
+.footer-inner p{
+    font-family: gen;
+    font-size: 16px;
+    color: #be9509;
+    margin: 0;
+}
+.footer-inner span img{
+    width: 30px;
+}
+.footer-inner span{
+    display: flex;
+    gap: 10px;
+    margin-top: 10px;
+}
+.waicon img{
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    width: 60px;
+    height: 60px;
+    text-align: center;
+    z-index: 10000;
+}
+.final-footer-work{
+    background-color: #000;
+    border-top: solid 1px #666;
+    font-family: gen;
+    margin: 0;
+    padding: 0 20px;
+    color:#ffc107; 
+    font-size: 16px;
+}
